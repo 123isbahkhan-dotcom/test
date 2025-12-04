@@ -1,0 +1,7 @@
+{
+  "name": "isno DreamBuild Pakistan  ",
+  "description": "A comprehensive platform for designing, visualizing, and estimating construction costs for dream homes in Pakistan using AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
